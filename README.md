@@ -1,9 +1,14 @@
 # Machine Learning Demo
 
-## Student Performance Dataset
+## Student Performance Predictor
+
+> Using the Linear Regression technique
 
 
+### Task List
 
+1. [ ] Download/Install software
+2. [ ] Setup GitHub Account
 
 
 
